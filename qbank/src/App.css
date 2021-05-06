@@ -1,0 +1,21 @@
+/* .not-found {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+} */
+
+.container{
+    background-color: rgb(231, 229, 224);
+}
+/* body.light-mode {
+    background-color: #fff;
+    color: #333;
+    transition: background-color 0.3s ease;
+  }
+ body.dark-mode {
+    background-color: #1a1919;
+    color: #999;
+} */

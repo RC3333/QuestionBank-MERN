@@ -1,0 +1,5 @@
+{
+         "mongoURI":"mongodb+srv://Rinkesh333:Rinkesh333@merncluster.ia5nj.mongodb.net/MERNDatabase?retryWrites=true&w=majority",
+         "jwtToken":"mySecret"
+
+}
